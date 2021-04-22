@@ -1,0 +1,61 @@
+.container{
+    background-color: lightgrey;
+    width: 800px;
+    padding: 20px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+}
+
+.happy{
+    background-color: aqua;
+    padding: 10px;
+    display:flex;
+    justify-content:center ;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+}
+
+.happy img{
+    width: 200px;
+    height: 200px;
+    }
+
+.culture{
+    background-color: hotpink;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+}
+
+.culture img{
+    width: 200px;
+    height: 200px;
+    }
+
+
+.evil{
+    background-color: aqua;
+    padding: 0px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.evil img{
+    width:267px;
+}
+
+p{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
